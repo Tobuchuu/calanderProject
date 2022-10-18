@@ -213,25 +213,6 @@
                         echo '<h3 class="event">There are no events this day.</h3>';
                     }
                 ?>
-
-                <!-- <div class="event">
-                    <h3 class="eventTitel">
-                        <ul><li>Event Placeholder : Time</li></ul>
-                    </h3>
-                    <p class="eventDecs">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                </div>
-                <div class="event">
-                    <h3 class="eventTitel">
-                        <ul><li>Event Placeholder</li></ul>
-                    </h3>
-                    <p class="eventDecs">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                </div>
-                <div class="event">
-                    <h3 class="eventTitel">
-                        <ul><li>Event Placeholder</li></ul>
-                    </h3>
-                    <p class="eventDecs">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-                </div> -->
             </div>
 
             <div class="bottomBar">
